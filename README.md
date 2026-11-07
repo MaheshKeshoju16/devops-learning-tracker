@@ -11,3 +11,7 @@ This project tracks my journey of learning Cloud and DevOps engineering.
 - Linux fundamentals completed
 - Bash fundamentals completed
 - Git and GitHub learning in progress
+
+## Next Learning Goals
+- Python for DevOps
+- Networking fundamentals
