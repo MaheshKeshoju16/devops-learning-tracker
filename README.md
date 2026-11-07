@@ -15,3 +15,9 @@ This project tracks my journey of learning Cloud and DevOps engineering.
 ## Next Learning Goals
 - Python for DevOps
 - Networking fundamentals
+
+## Git Progress
+- Git basics completed
+- GitHub repository created
+- Branching and merging completed
+- Push and pull practised
