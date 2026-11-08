@@ -1,0 +1,14 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
