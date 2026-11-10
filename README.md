@@ -21,3 +21,8 @@ This project tracks my journey of learning Cloud and DevOps engineering.
 - GitHub repository created
 - Branching and merging completed
 - Push and pull practised
+
+## GitHub Collaboration
+- Learning Pull Requests
+- Practising code reviews
+- Understanding team collaboration
